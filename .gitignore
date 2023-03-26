@@ -9,6 +9,7 @@ npm-debug.*
 *.orig.*
 web-build/
 .temp/
+.expo/web/cache/
 
 # macOS
 .DS_Store
